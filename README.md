@@ -2,7 +2,8 @@
 
 Este script en Python establece un servidor proxy básico que se utiliza para redirigir solicitudes de los clientes a un servidor de destino. Es una herramienta útil para probar y depurar comunicaciones de red.
 
-Clonar: `git clone https://github.com/cryphr/anti-storm.git`
+##### Clonar repositorio:
+`git clone https://github.com/cryphr/anti-storm.git`
 
 ## Requerimientos
 
